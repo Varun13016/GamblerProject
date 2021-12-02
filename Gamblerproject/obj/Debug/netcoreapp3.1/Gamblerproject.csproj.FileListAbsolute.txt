@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\bin\Debug\netcoreapp3.1\Gamblerproject.exe
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\bin\Debug\netcoreapp3.1\Gamblerproject.deps.json
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\bin\Debug\netcoreapp3.1\Gamblerproject.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\bin\Debug\netcoreapp3.1\Gamblerproject.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\bin\Debug\netcoreapp3.1\Gamblerproject.dll
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\bin\Debug\netcoreapp3.1\Gamblerproject.pdb
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.dll
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.pdb
+C:\Users\VARUN KUMAR\source\repos\Gamblerproject\Gamblerproject\obj\Debug\netcoreapp3.1\Gamblerproject.genruntimeconfig.cache
